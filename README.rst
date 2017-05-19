@@ -14,7 +14,7 @@ If you find anything missing from this page, please edit this `README.md` file t
 Synthetic image dataset
 =======================
 
-- :ref:`Virtual KITTI <gaidon2016virtual>`
+- `Virtual KITTI <gaidon2016virtual>`_
 - [Synthetia](#ros2016synthia)
 - [Sintel](#butler2012naturalistic), A synthetic dataset for optical flow
 - [SceneFlow](#mayer2015large)
@@ -124,7 +124,7 @@ See also: http://riemenschneider.hayko.at/vision/dataset/index.php?filter=+synth
 	 ([project](http://synthia-dataset.net/))
 	 ([citation:4](http://scholar.google.com/scholar?cites=9178628328030932213&as_sdt=2005&sciodt=0,5&hl=en))
 
-<div id="gaidon2016virtual"></div>
+.. _gaidon2016virtual:
 
 -   Virtual Worlds as Proxy for Multi-Object Tracking Analysis.  2016
 	 ([pdf](http://arxiv.org/abs/1605.06457))
