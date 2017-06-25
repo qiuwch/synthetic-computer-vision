@@ -64,7 +64,7 @@ See also: http://riemenschneider.hayko.at/vision/dataset/index.php?filter=+synth
 
 ### 2017
 
-(Total=3)
+(Total=4)
 
 - [Nvidia Issac](http://www.marketwired.com/press-release/nvidia-ushers-new-era-robotics-with-breakthroughs-making-it-easier-build-train-intelligent-2215481.htm)
 
@@ -84,6 +84,9 @@ See also: http://riemenschneider.hayko.at/vision/dataset/index.php?filter=+synth
 
 - Tobin, Josh, et al. "Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World." arXiv preprint arXiv:1703.06907 (2017). tag: domain
 	([pdf](https://arxiv.org/pdf/1703.06907.pdf))
+	
+	
+- McCormac, John, et all. "SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth" arXiv:1612.05079 (2017) ([pdf](https://arxiv.org/pdf/1612.05079.pdf))
 
 ### 2016
 (Total=17)
